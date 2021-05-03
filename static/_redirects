@@ -7,3 +7,4 @@
 /terms https://gravitydex.io/terms-and-conditions.pdf
 /test/* https://d2acv4xwjreiuz.cloudfront.net/:splat 200
 /test https://d2acv4xwjreiuz.cloudfront.net 200
+/static/* https://d2acv4xwjreiuz.cloudfront.net/static/:splat
