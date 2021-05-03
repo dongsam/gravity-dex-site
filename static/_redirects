@@ -8,3 +8,4 @@
 /test/* https://d2acv4xwjreiuz.cloudfront.net/:splat 200
 /test https://d2acv4xwjreiuz.cloudfront.net 200
 /static/* https://d2acv4xwjreiuz.cloudfront.net/static/:splat 200
+/manifest.json https://d2acv4xwjreiuz.cloudfront.net/manifest.json 200
